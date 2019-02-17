@@ -89,7 +89,7 @@ def showInputDialog(mode):
 
 def showFileDialog():
     fname = QFileDialog.getOpenFileName(enc, 'OpenFile',
-        '', 'Images (*.jpeg *.jpg *.bmp *.png)')
+        '', 'Images (*.bmp)')
     if fname[0]:
         global f
         f = fname[0]

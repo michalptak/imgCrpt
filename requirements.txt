@@ -1,0 +1,4 @@
+Pillow==5.4.1
+pycryptodomex==3.7.3
+PyQt5==5.12
+PyQt5-sip==4.19.14

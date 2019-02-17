@@ -18,12 +18,16 @@ lib/
 lib64/
 parts/
 sdist/
+scripts/
 var/
 wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+pyvenv.cfg
+pip-selfcheck.json
 MANIFEST
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

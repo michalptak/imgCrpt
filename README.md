@@ -7,8 +7,6 @@ Works with .bmp files.
 
 - Python 3.x
 
-- Arcade
-
 - Pillow
 
 - pycryptodomex
